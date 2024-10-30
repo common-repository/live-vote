@@ -1,0 +1,35 @@
+#livevote-settings {
+
+}
+
+
+#livevote-settings .lv-auth {
+  margin: 30px 0;
+}
+
+
+#livevote-settings .lv-auth a {
+  text-decoration: none;
+}
+
+#livevote-settings .lv-auth a .dashicons {
+  width: 15px;
+  height: 15px;
+  font-size: 15px;
+  margin-top: 4px;
+}
+
+
+#livevote-settings .lv-more-options {
+  margin-top: 20px;
+}
+
+#lv-notice {
+  display: none;
+}
+
+
+#post-livevote .dashicons-thumbs-up {
+  color: #82878C;
+  margin-right: 3px;
+}
